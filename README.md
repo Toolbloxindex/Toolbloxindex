@@ -50,6 +50,8 @@ My journey in tech has been driven by a relentless curiosity and a dedication to
   <!--<a href="https://twitter.com/yourusername" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>-->
+    <br/>
+   <br/>jfjs.taba@gmail.com
 </p>
 
 
