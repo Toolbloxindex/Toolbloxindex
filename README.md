@@ -33,7 +33,7 @@ My journey in tech has been driven by a relentless curiosity and a dedication to
 <h2 align="center">Projects</h2>
 <h3 align="center">Toolblox Labs</h3>
 <p align="center">
-  <img src="https://iili.io/duYq0Ux.png" alt="logo" width="400px" height="165.5px">
+  <img ratio="200 / 83"src="https://iili.io/duYq0Ux.png" alt="logo" width="400px" height="165.5px">
 </p>
 <p>My first real project, a consumer friendly 3d printed rockets company in this project i aim to design a website in which a buyer can choose within multiple models of 3d printed rockets and make a purshase. The website hasn't begun but when it does it will be in sync with github, currently working on the hardware, design and manufacturing of the rockets. </p>
 
@@ -45,11 +45,8 @@ My journey in tech has been driven by a relentless curiosity and a dedication to
 <h2 align="center">Connect with Me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/tom%C3%A1s-correia-367810278/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img  ratio="25 / 13"src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <!--<a href="https://twitter.com/yourusername" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>-->
     <br/>
    <br/>jfjs.taba@gmail.com
 </p>
