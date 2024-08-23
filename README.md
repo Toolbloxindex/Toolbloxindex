@@ -38,14 +38,14 @@ My journey in tech has been driven by a relentless curiosity and a dedication to
 <p>My first real project, a consumer friendly 3d printed rockets company in this project i aim to design a website in which a buyer can choose within multiple models of 3d printed rockets and make a purshase. The website hasn't begun but when it does it will be in sync with github, currently working on the hardware, design and manufacturing of the rockets. </p>
 
 <p align="center"> 
-  <img src="https://iili.io/duYz85G.png" alt="Prototype 1" width="500px" height="260.1px">
+  <img src="https://iili.io/duYz85G.png" alt="Prototype 1" width="500px" ratio="5000/2601" height="auto">
 </p>
 <p>My first rocket is called "Prototype 1", a cheap, resusable and intuitive rocket, i have run simulations and i can confirm that excitement is guaranteed!</p>
 <!-- Connect with Me with buttons -->
 <h2 align="center">Connect with Me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/tom%C3%A1s-correia-367810278/" style="text-decoration: none;">
-    <img  ratio="25 / 13"src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img  ratio="25/13"src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
     <br/>
    <br/>jfjs.taba@gmail.com
