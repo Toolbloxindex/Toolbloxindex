@@ -33,7 +33,7 @@ My journey in tech has been driven by a relentless curiosity and a dedication to
 <h2 align="center">Projects</h2>
 <h3 align="center">Toolblox Labs</h3>
 <p align="center">
-  <img ratio="200 / 83"src="https://iili.io/duYq0Ux.png" alt="logo" width="400px" height="165.5px">
+  <img ratio="200/83"src="https://iili.io/duYq0Ux.png" alt="logo" width="400px" height="auto">
 </p>
 <p>My first real project, a consumer friendly 3d printed rockets company in this project i aim to design a website in which a buyer can choose within multiple models of 3d printed rockets and make a purshase. The website hasn't begun but when it does it will be in sync with github, currently working on the hardware, design and manufacturing of the rockets. </p>
 
